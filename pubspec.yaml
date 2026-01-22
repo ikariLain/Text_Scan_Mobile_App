@@ -10,11 +10,9 @@ dependencies:
   flutter:
     sdk: flutter
 
-  ocr_scan_text:
-    git:
-      url: https://github.com/Zonn0n/ocr_scan_text
   google_mlkit_text_recognition: ^0.15.0
   file_picker: ^8.0.7
+  image_picker: ^0.8.7
 
 dev_dependencies:
   flutter_test:
