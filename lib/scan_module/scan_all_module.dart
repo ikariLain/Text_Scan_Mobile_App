@@ -5,7 +5,7 @@ class ScanAllModule extends ScanModule {
   ScanAllModule()
       : super(
           label: 'All',
-          color: Colors.redAccent,
+          color: Colors.redAccent ,
           validateCountCorrelation: 1,
         );
 
